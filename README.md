@@ -16,7 +16,8 @@
 #### Created ```Dockerfile``` to create docker image
 
 #### Steps to follow
-1. docker build -t mailgun:latest .
-2. docker run -d -p 3006:3006 mailgun:latest
+1. Run command ```docker build -t mailgun:latest .```
+2. Run command ```docker run -d -p 3006:3006 mailgun:latest```
+3. RUN command ```docker ps``` to check if your image is running.
 
 ```Note: Install DOCKER DESKTOP```
