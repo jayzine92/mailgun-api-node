@@ -1,4 +1,5 @@
-# Mailgun mailer api in nodejs
+# Mailgun app in nodejs
+### API end point is ```localhost:30006/mail/send``` in local machine.
 #### Dependencies required
 1. mailgun.js
 2. express
