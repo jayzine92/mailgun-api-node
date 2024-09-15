@@ -22,3 +22,5 @@
 3. RUN command ```docker ps``` to check if your image is running.
 
 ```Note: Install DOCKER DESKTOP```
+
+### GITHUB action to create docker image
