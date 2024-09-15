@@ -24,3 +24,4 @@
 ```Note: Install DOCKER DESKTOP```
 
 ### GITHUB action to create docker image
+##### Please check .github/workflows folder.
